@@ -1,0 +1,9 @@
+.capitalize() - Использование заглавных букв
+
+try - Попытка
+except Exception as <name> - Проверка
+
+response = requests.get(url) - биболиотека request, работа с HTTP и другое
+<name> = response.json() - получение информации в формате json
+
+func=lambda message: message.text == "Погода" - функция создание текст
